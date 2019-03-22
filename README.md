@@ -1,6 +1,6 @@
 # README
 
-This is a simple photo gallery with authentication (Devise) and ActiveAdmin for administration. I didn't get too deep into Devise authentication. It can be improved.
+This is a simple photo gallery with authentication (Devise) and ActiveAdmin for administration. I didn't get too deep into Devise authentication. It can be improved. Make sure you have the latest version of Devise and all other dependencies.
 
 Things you may want to cover:
 
